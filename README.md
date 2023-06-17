@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# exercise1
+Make input file inside main project directory.
+Run program and write input file name with it's extension.
